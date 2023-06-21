@@ -1,0 +1,2 @@
+# nftstars
+test scrypt
